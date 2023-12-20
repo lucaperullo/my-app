@@ -1,5 +1,26 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# TASKS :
+
+### Using // TODO and // FIX Comments
+
+In this project, we follow a specific convention for marking tasks and bug fixes within the code using comments.
+
+- `// TODO:` comments are used to indicate pending tasks or future improvements in the code. They serve as placeholders for parts of the code that need further attention or enhancements.
+
+- `// FIX:` comments are utilized to describe the methods or solutions applied to resolve identified bugs or issues in the codebase. These comments highlight the specific actions taken to fix a problem.
+
+### Examples:
+
+#### TODO Comment:
+
+```javascript
+// TODO: Refactor this function for better performance
+function optimizeCode() {
+  // Code implementation here
+}
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -43,21 +64,6 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
 ### Deployment
 
@@ -66,3 +72,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+```
