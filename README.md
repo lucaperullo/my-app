@@ -1,7 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-# TASKS :
-
 ### Using // TODO and // FIX Comments
 
 In this project, we follow a specific convention for marking tasks and bug fixes within the code using comments.
